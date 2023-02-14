@@ -40,7 +40,8 @@ Sanity Dashboard ->
 
 Admin Approval For Comment Publishing -> 
 
-![image](https://user-images.githubusercontent.com/96788948/218759146-2c4e2056-f9d8-4e3d-b934-012af721e26a.png)
+![image](https://user-images.githubusercontent.com/96788948/218759493-d9950995-3ced-4b87-a8a4-28ea62dbc668.png)
+
 
 
 
